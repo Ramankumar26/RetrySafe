@@ -54,3 +54,4 @@ results/*.png
 results/*.csv
 results/*.json
 !results/.gitkeep
+fault-proxy/proxy.log
